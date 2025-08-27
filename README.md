@@ -73,10 +73,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Built with ❤️ by [manulzvz](https://github.com/manulzvz).
